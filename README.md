@@ -19,7 +19,9 @@
 
 <a href="https://github.com/Lathika-Sri"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
 <a href="https://www.linkedin.com/in/lathikasri6/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-<a href="mailto:lathikasribalamurugan6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=lathikasribalamurugan6@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
 
 
 
