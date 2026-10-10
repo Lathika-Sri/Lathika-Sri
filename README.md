@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lathika Sri</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | MERN Stack Enthusiast</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lathika-Sri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lathika-Sri&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 
